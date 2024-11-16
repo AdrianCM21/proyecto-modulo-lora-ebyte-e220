@@ -41,8 +41,8 @@ El objetivo de este proyecto es establecer una comunicación inalámbrica de lar
 
 ## Estructura del Repositorio
 
-- `Emisor/`: Contiene el código fuente para el microcontrolador ESP32 que envía datos.
-- `Receptor/`: Contiene el código fuente para el microcontrolador ESP8266 que recibe datos.
+- `codigo/`: Contiene el código fuente para el microcontrolador ESP32 que envía datos.
+- `codigo/`: Contiene el código fuente para el microcontrolador ESP8266 que recibe datos.
 
 ## Cómo Usar el Proyecto
 
@@ -59,8 +59,7 @@ El objetivo de este proyecto es establecer una comunicación inalámbrica de lar
    - Monitorea los datos recibidos utilizando una consola serial.
 
 ## Estado Actual
-
-- Código funcional para pruebas básicas de transmisión y recepción.
+- No funcional, en las pruebas realizadas no conseguimos enviar ni recivir datos.
 - Pendiente de depuración para solucionar problemas de comunicación detectados en pruebas iniciales.
 
 ## Contribuciones
