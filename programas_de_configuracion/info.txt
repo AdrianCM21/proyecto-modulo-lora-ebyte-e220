@@ -1,0 +1,5 @@
+Versiones portables
+
+- Programa CoolTerm: para acceder a los puerto seriales de las placas por medio del conversor ttl
+
+- RF_Setting (V3.3,V2.6): desarrollado por EBYTE, está diseñado para configurar y personalizar los módulos LoRa de la serie E22
